@@ -56,20 +56,20 @@
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">      
             <div class="carousel-inner">
-                <div class="item active" style="background-image: url(images/slider/bg2.jpg)">
+                <div class="item active" style="background-image: url(images/inicio.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
                                     <h2 class="animation animated-item-1">Bienvenido a  <span>la empresa</span></h2>
-                                    <p class="animation animated-item-2">Te brindaremos el apyoyo que necesites en tu trabajo</p>
+                                    <p class="animation animated-item-2">Te brindaremos el apoyo que necesites en tu trabajo</p>
                                     <a class="btn-slide animation animated-item-3" href="#">Registrate</a>
                                 </div>
                             </div>
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="images/slider/img3.png" class="img-responsive">
+                                    <!--<img src="images/slider/img3.png" class="img-responsive">-->
                                 </div>
                             </div>
 
